@@ -1,0 +1,7 @@
+{
+  "name": "Speakit",
+  "description": "An AI-powered English speaking coach with real-time feedback, grammar correction, and conversation practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
